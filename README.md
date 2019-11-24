@@ -1,2 +1,2 @@
-# lynn-piscoran
-This is my collection of personal projects 
+# personal-photo-site
+This project will setup a website to share our personal photos
